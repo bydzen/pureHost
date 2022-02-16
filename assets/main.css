@@ -82,7 +82,7 @@ button.toggleMenu:hover {
     }
 }
 
-@media screen and (max-width: 695px) {
+@media screen and (max-width: 780px) {
     nav ul {
         flex-direction: column;
         width: 100%;
@@ -243,6 +243,13 @@ body button:hover {
 }
 
 /* Container */
+.anchorId {
+    display: block;
+    position: relative;
+    top: -70px;
+    visibility: hidden;
+}
+
 /* Container - Short Services */
 .shortServices {
     display: flex;
@@ -342,7 +349,7 @@ a {
 
 .centerPricing {
     border: 1px solid #0d6efd;
-    box-shadow: 0px 0px 10px rgb(175, 175, 175);
+    box-shadow: 0px 0px 20px rgb(221, 221, 221);
     height: 490px;
     display: flex;
     justify-content: center;
