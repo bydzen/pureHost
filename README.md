@@ -13,10 +13,11 @@ Studi Independen.
 
 1. Sultan Kautsar ([Portfolio](https://sultankautsar.com/))
 
-### Technology
+### Technology (Pure/Vanilla)
 
 1. Pure HTML
 2. Pure CSS (Vanilla CSS)
-3. FontAwesome (Icons)
+3. Pure JavaScript (Vanilla JS)
+4. FontAwesome (Icons)
 
 ##### Thank You! Hope you like it. 😁
