@@ -6,7 +6,8 @@ Studi Independen.
 
 ### Live Preview
 
-1. [bydzen.github.io/pureHost](https://bydzen.github.io/mantaphost/)
+1. Live Github Pages
+   [bydzen.github.io/pureHost](https://bydzen.github.io/pureHost/)
 
 ### Author
 
@@ -14,8 +15,8 @@ Studi Independen.
 
 ### Technology
 
-1. Bootstrap
-2. Animate.style
-3. Animate On Scroll (AOS)
+1. Pure HTML
+2. Pure CSS (Vanilla CSS)
+3. FontAwesome (Icons)
 
 ##### Thank You! Hope you like it. 😁
